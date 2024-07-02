@@ -1,4 +1,5 @@
 API da Livraria
+
 Esta é a documentação básica para a API da Livraria, desenvolvida em Laravel. Como requisito de avaliação de Exame da cadeira de Programação Web.
 
 Visão Geral
