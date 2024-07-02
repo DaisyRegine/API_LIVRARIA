@@ -36,4 +36,4 @@ Licença
 
 Este projeto está licenciado sob a Licença MIT.
 
-Obs: Não foi possível consumir o front ainda, então foi criado uma interface básica com Laravel para interação do Usuário.
+Obs: Não foi possível consumir o front ainda, então foi criado uma interface básica dentro da API para interação do Usuário.
